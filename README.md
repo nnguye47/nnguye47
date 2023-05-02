@@ -2,12 +2,15 @@
 I'm a full stack engineer with an interest in front end development. I also an interest in UI and design.
 
 ## Check out more: 
-
 <a href="https://www.linkedin.com/in/nam-n-swe/" >
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
 </a>
 
      
+## Skills:
+
+# Languages:
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
