@@ -1,4 +1,4 @@
-# Hi, Welcome to my profile! 👋
+# Hi, Thanks for stopping by! 👋
 My name is Nam. My pronouns are he/him/his and i'm a full stack engineer with an interest in front end development. I also an interest in UI and design.
 
 ## Check out more: 
