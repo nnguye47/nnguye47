@@ -1,5 +1,5 @@
 # Hi, Thanks for stopping by! 👋
-My name is Nam. My pronouns are he/him/his and i'm a full stack engineer with an interest in front end development. I also an interest in UI and design.
+My name is Nam and my pronouns are he/him/his and i'm a full stack engineer who is eager to tackle any challenge.
 
 ## Check out more: 
 <a href="https://www.linkedin.com/in/nam-n-swe/" >
@@ -23,7 +23,9 @@ My name is Nam. My pronouns are he/him/his and i'm a full stack engineer with an
 
 ## Recent Project: <a href="https://github.com/StackageApp"> Stackage </a>
 <p>
-  Stackage is platform that aims to bring tech enthusiests together to ask questions, share information, and share resources. It is curated by the community, so users can vote for the kind of content they want to see! The project
+  Stackage is platform that aims to bring tech enthusiests together to ask questions, share information, and share resources. It is curated by the community, so users can vote for the kind of content they want to see! This project was handled by a team of 7 engineers using agile methodologies. Stayed on track to meet deadlines by hosting daily stand ups, regularly updated trello boards, and constantly communicated through slack channels.
+  
+  During this project I got to learn how important a detailed wire frame is. The wireframe should look like the finalized app with most if not all of the functionalities. I also learned the importance of organization when it comes to team roles. Things can easily spiral out of control if there are people who are unsure of what to do. To avoid confusion the project team memebers signed up for tasks they were interested in or were given a task if needed.
 </p>
 
 
