@@ -1,5 +1,5 @@
 # Hi, Thanks for stopping by! 👋
-My name is Nam and my pronouns are he/him/his and i'm a full stack engineer who is eager to tackle any challenge.
+My name is Nam. My pronouns are he/him/his and I'm a full stack engineer who is eager to tackle any challenge.
 
 ## Check out more: 
 <a href="https://www.linkedin.com/in/nam-n-swe/" >
