@@ -18,7 +18,7 @@ My name is Nam. My pronouns are he/him/his and I'm a full stack engineer who is 
 
 
 ## Currently I am...
-- Interested in learning <img src="https://img.shields.io/badge/ts--node-3178C6?style=for-the-badge&logo=ts-node&logoColor=white" />, <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+- Interested in learning <img src="https://img.shields.io/badge/ts--node-3178C6?style=for-the-badge&logo=ts-node&logoColor=white" />, <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />, and <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 - Building my portfolio website!
 
 ## Recent Project: <a href="https://github.com/StackageApp"> Stackage </a>
